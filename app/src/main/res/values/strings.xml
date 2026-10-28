@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Evento_001</string>
+    <string name="tituloSuma">SUMA DE DOS NÚMEROS</string>
+    <string name="num1">Digite número 1</string>
+    <string name="num2">Digite número 2</string>
+    <string name="botonSumar">SUMA</string>
+    <string name="resultado">"El resultado es: "</string>
+    <string name="suma">SUMA</string>
+</resources>
